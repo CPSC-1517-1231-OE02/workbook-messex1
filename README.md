@@ -1,7 +1,10 @@
 # CPSC1517 Fall 2023 Term Workbook
 
-## your name here
+## Michael Essex
 
-## your Github Account id
+## messex1
 
-This is a public repository for your classroom demonstrations and practice. You will use this only for public work. Exercise work submitted within this repository will NOT be evaluated.
+This is a public repository for my classroom demonstrations and practice. 
+I will use this only for public work. 
+
+Exercise work submitted within this repository will NOT be evaluated.
